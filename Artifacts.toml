@@ -1,0 +1,126 @@
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f67263ce7ab02a025443244cf870634368ad5a41"
+julia_version = "1.10.2"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "e78fd80b8a641de34b2944efc95f430feac18e2a12535f81f3d8ea9dd39f40c4"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.10.2.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e3fa15c865bad75ea9cdc592455f0f8d7cc07af"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "dd54857b0bd43fc27eda33d5afe5522cf66ff69b7d94077021cfe6abe35b4925"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc3a2a55ffb0467172ebbe3b409298382ab7ed41"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "4b50ec8d474218454c0b299d43316ec3fa8f4997de794048064e4b0be6cafea5"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.9.3.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e86372acbb744c4b24320123ff291f740b724085"
+julia_version = "1.10.2"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "e25b67b2895e00b460e31eb11ec5066190345927eef5e22c3b39e7efb4bc3b57"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.10.2.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "17fcb91479c9015daa58b2c3f74adf175946632e"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "11ea96b6c9f6b8eae2d2cebd0a820e8e60829f1721d37bfd8912fb5b56e62bb8"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca8b9d35bd97eff3062ca19041b2664afdf3fb51"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "a628db217352ad51921830f10665740a7d180984e6fae1f826b8ad1173b5edf1"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.9.3.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d3e530f00c3add2f81b0a71adc51d1dc30522c23"
+julia_version = "1.10.2"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "3e8d8c84b35592c32c9651d6a0e285a3b146f640016eefdf7350da0cef8bed6f"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.2.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b163c004a263acf993e71fc6c41c68634cba1db7"
+julia_version = "1.7.0"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "72dd8d98dc2c832d8e600e0a8b66ec0b49dc796663afb11f571ac4738dc2f974"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c4f1cc3a62da5ebe2facd80d2b792a506ab8171"
+julia_version = "1.9.3"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "6cd1aa29de47c095d38e6c1eca8dada38baed507eecf9f4d28c90b8f6caa05fe"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.3.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bacfb22baf4d1a9526850c7eea527e128ee917ff"
+julia_version = "1.10.2"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "c75e606747fd0ed4793dfb77435bee312891015a01d8f9d69437db6e9968fe35"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.2.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b619b2011c0a968ed5c77f0dc736d64739602b30"
+julia_version = "1.7.0"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "6462d651942f2182f6cf96bcf3057aedd14a2a7129a7a9c2808301f604fbf575"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90495afe080727eed8f1236e715e362dcf07ac84"
+julia_version = "1.9.3"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "ee6445e2e0da7f9752b8cf66ad73964485cfb069942b2e52600c53863ac43db6"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.3.tar.gz"
