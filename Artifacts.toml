@@ -124,3 +124,41 @@ os = "windows"
     [[QuantLibjl.download]]
     sha256 = "ee6445e2e0da7f9752b8cf66ad73964485cfb069942b2e52600c53863ac43db6"
     url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.3.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc8242c5ae10129c71fc0c21c9c9279640793b27"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "dca88152489ef83b9d64fe2d98a96fe4aea2f15356a7ece4cb184ab696c6ed6d"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12b6457c91fbc9c08293cee5d0413dabf75d0fbe"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "99191d2f8a8a084139b39c0a67ad1e0b922ca9e1c21cd6a7ba4ff234dc647595"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e89e88e4c009bd577105a93a53009ff2a4b3db97"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "241fe5536b763ab58dfb01290ed0e5c0f0b2457431bece7f17e598c36003ef6a"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea766d2282f28758e9539816906f2cd7c942fb81"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "b2baf11a50e6af21b740e733be6adca4c83d564517cca8a825d4c94d802d23b7"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
