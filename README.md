@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `QuantLibjl_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/kldscap/QuantLib.git (revision: `092ccb2258d719f43683fcf696517b90b601a0e3`)
+* git repository: https://github.com/kldscap/QuantLib.git (revision: `c2a499fa537b197447579e37870dcf4ec304c489`)
 
 ## Platforms
 
