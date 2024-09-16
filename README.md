@@ -16,8 +16,10 @@ The tarballs for `QuantLibjl_jll.jl` have been built from these sources:
 
 `QuantLibjl_jll.jl` is available for the following platforms:
 
-* `Windows x86_64 {cxxstring_abi=cxx03}` (`x86_64-w64-mingw32-cxx03`)
-* `Windows x86_64 {cxxstring_abi=cxx11}` (`x86_64-w64-mingw32-cxx11`)
+* `Windows x86_64 {cxxstring_abi=cxx03, julia_version=1.10.0}` (`x86_64-w64-mingw32-cxx03-julia_version+1.10.0`)
+* `Windows x86_64 {cxxstring_abi=cxx03, julia_version=1.11.0}` (`x86_64-w64-mingw32-cxx03-julia_version+1.11.0`)
+* `Windows x86_64 {cxxstring_abi=cxx11, julia_version=1.10.0}` (`x86_64-w64-mingw32-cxx11-julia_version+1.10.0`)
+* `Windows x86_64 {cxxstring_abi=cxx11, julia_version=1.11.0}` (`x86_64-w64-mingw32-cxx11-julia_version+1.11.0`)
 
 ## Dependencies
 

@@ -162,3 +162,43 @@ os = "windows"
     [[QuantLibjl.download]]
     sha256 = "b2baf11a50e6af21b740e733be6adca4c83d564517cca8a825d4c94d802d23b7"
     url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "590909f774e93568a00a658259f99da2996a21dc"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "6b8efe442ecca15c92e1af2976fed19c8d54feaeac532a4c255eedc49f605644"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.1.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0e137745ea3019016d604e4c12a0ed536f74f4a2"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "07ded078c798360ffdf221c660674596e4014b69e2e05fc89f99f885f2f4768b"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.1.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b3e8acb52af619464a5e48843cede26721cce933"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "2ea90a9f9de169dd777d88ef1c38b97ca16d5d7f627422956bdd1547e1fe436d"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d389af6b72b213090d82daf74bddee2ea9166ac"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "0e4ae8a342e9c7e823741bbb1e2d2590b1157899f24cd5afaac1b6d1ce2bf376"
+    url = "https://github.com/asadkldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.1+0/QuantLibjl.v1.0.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
